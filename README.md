@@ -10,8 +10,8 @@
 - Menyesuaikan format untuk algoritma tertentu.
 
 *Contoh:*
-python
-gray_image = cv2.cvtColor(color_image, cv2.COLOR_BGR2GRAY)
+'''python
+gray_image = cv2.cvtColor(color_image, cv2.COLOR_BGR2GRAY)'''
 
 Gambar Asli:
 
