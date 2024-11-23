@@ -11,7 +11,7 @@
 
 *Contoh:*
 ~~~python
-gray_image = cv2.cvtColor(color_image, cv2.COLOR_BGR2GRAY)~~~
+gray_image = cv2.cvtColor(color_image, cv2.COLOR_BGR2GRAY)~~
 
 Gambar Asli:
 
